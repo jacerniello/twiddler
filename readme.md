@@ -11,4 +11,8 @@ An example full-length video can be found at <a href="https://youtu.be/-gkXH_GzH
 
 The twiddler library, unlike some Python alternatives like manim, allows for simultaneous (parallel) animations of shapes and groups of shapes through the use of time-based <i>triggers</i>. This means that hundreds, if not thousands, of shapes can be programmatically manipulated to act at the same time.
 
+### Inspiration
+
+Huge thanks to the authors of Manim, ManimPango, Cairo and PyCairo; your work laid the foundation for this library.
+
 ### This is a work in progress! Docs coming soon...
